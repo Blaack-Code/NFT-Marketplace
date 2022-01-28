@@ -4,7 +4,7 @@ Boas Vindas ao desafio NFT-Marketplace!!
 
 ## O que será desenvolvido
 
-O projeto foi pensado para ser desenvolvido utilizando apenas HTML e CSS, porém, está aberto para ser incrementado com JavaScript para funcionalidade ou até mesmo frameworks e bibliotecas para dar vida a este site incrível!
+O projeto foi pensado para ser desenvolvido utilizando apenas HTML e CSS, porém, está aberto para ser incrementado com JavaScript para funcionalidade ou até mesmo frameworks e bibliotecas para dar vida a este site incrível! O desafio será construir um marketplace de NFT's, não é necessário criar nenhum tipo de tela senão a apresentada abaixo.
 
 ## Protótipo
 
