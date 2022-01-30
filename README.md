@@ -12,16 +12,16 @@ O projeto foi pensado para ser desenvolvido utilizando apenas HTML e CSS, porém
 
 2- Crie uma branch a partir da master utilizando o comando `git checkout -b seu-nome-aqui`.
 
-3- Abra seu editor de texto com o comando `code .`.
+3- Abra seu editor de texto com o comando `code .`. <br>
  3.1- Crie seus arquivos
 
 4- Em seu perfil do GitHub crie um repositório.
 
 5- Utilize o comando `git remote add 'nome escolhido' 'url do repositório remoto'`.
 
-6- Após cada avanço utilize a sequência de comandos:
- 6.1- `git add .`.
- 6.2- `git commit -m 'mensagem do commit'`.
+6- Após cada avanço utilize a sequência de comandos: <br>
+ 6.1- `git add .`. <br>
+ 6.2- `git commit -m 'mensagem do commit'`. <br>
  6.3- `git push`.
  
 
