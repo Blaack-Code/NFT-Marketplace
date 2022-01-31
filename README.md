@@ -27,7 +27,7 @@ O projeto foi pensado para ser desenvolvido utilizando apenas HTML e CSS, porém
 
 ## Protótipo
 
-![Resultado](https://user-images.githubusercontent.com/81549048/151565362-0dcc05c6-a97b-425e-8b7f-3b12e4800f16.png)
+![Tela](https://user-images.githubusercontent.com/81549048/151888830-58d7c80b-fa3e-4fd2-940e-e2e4a77a9128.png)
 
 Para ter acesso a fontes, dimensões e cores acesse o protótipo no <a href="https://www.figma.com/file/tnlrEAHqS4MjGerxI1LhKa/Desafio-NFT-Marketplace?node-id=0%3A1">Figma</a>
 
